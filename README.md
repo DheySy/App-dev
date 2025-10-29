@@ -1,6 +1,6 @@
 # App-dev
 My first repository
-# 💪 Strong Woman Do Bong Soon
+# 💪 Strong Woman Do Bong Soon.
 
 **Strong Woman Do Bong Soon** is a South Korean television series that aired in **2017**.
 It stars *Park Bo-young*, *Park Hyung-sik*, and *Ji Soo*.
